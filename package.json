@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deluxanMD/ecommerce-backend.git"
+  },
+  "author": "Deluxan Mariathasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deluxanMD/ecommerce-backend/issues"
+  },
+  "homepage": "https://github.com/deluxanMD/ecommerce-backend#readme",
+  "description": ""
+}
